@@ -1,8 +1,6 @@
-## Seja Bem Vindo ao meu Site
+## curriculum vitae
 
-You can use the [editor on GitHub](https://github.com/LucasCezarei/LucasCezarei/edit/master/README.md) to maintain and preview
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para acessar minha pagina pessoal use o link: [Acessar meu Site](https://lucascezarei.github.io/LucasMagalhaes/) e conheça um pouco mais sobre meu trabalho.
 
 ### Markdown
 
